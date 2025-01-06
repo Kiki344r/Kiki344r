@@ -9,8 +9,7 @@
 ## 🚀 Compétences
 
 - **Langages :** JavaScript, HTML, CSS, MySQL
-- **Frameworks :** Express.js
-- **Outils :** Discord.js, PhpMyAdmin
+- **Frameworks :** Express.Js, Discord.Js
 - **Systèmes :** Linux, Windows
 
 ---
