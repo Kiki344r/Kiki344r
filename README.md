@@ -2,7 +2,7 @@
 
 ## 🌟 À propos de moi
 
-- 🎓 **Étudiant** en Seconde Pro CIEL (Cybersécurité, Informatique et Réseau, Électronique).
+- 🎓 **Étudiant** en Première Pro CIEL (Cybersécurité, Informatique et Réseau, Électronique).
 - 💻 Passionné par les **réseaux**, l'**informatique** et le **développement web**.
 - 🔧 J'aime travailler sur des projets **Discord.Js** et **WEB**.
 
