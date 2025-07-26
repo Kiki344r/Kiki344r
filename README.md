@@ -9,7 +9,7 @@
 ## 🚀 Compétences
 
 - **Langages :** JavaScript, HTML, CSS, MySQL
-- **Frameworks :** Express.Js, Discord.Js
+- **Frameworks :** Nuxt, Vue.JS, Express.Js, Discord.Js
 - **Systèmes :** Linux, Windows
 
 ---
